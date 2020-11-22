@@ -5,7 +5,7 @@ This case study was designed to drive home the important role that data science 
 The overall steps are:
 
 **Data Wrangling:**
-* Identifying missing values and impute them with mean, median and mean when applicable.
+* Identifying missing values and impute them with mean, median and mode when applicable.
 
 **Explatory Data Analysis:**
 * Identifying outliers
