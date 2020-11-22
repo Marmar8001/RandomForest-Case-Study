@@ -7,7 +7,7 @@ The overall steps are:
 **Data Wrangling:**
 * Identifying missing values and impute them with mean, median and mode when applicable.
 
-**Explatory Data Analysis:**
+**Explatorary Data Analysis:**
 * Identifying outliers
 
 **Scaling, modeling and feature imporatnce**
